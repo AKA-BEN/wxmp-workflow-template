@@ -7,6 +7,11 @@
 + 项目图片自动压缩
 + ESLint代码检查
 + 使用命令行快速创建`page`、`template`和`component`
++ `font` 字体文件转换成base64
+
+### 项目声明
+
+该项目代码来源于 https://github.com/YangQiGitHub/wx-miniprogram-boilerplate 。因不够满足开发需求，所以个人对代码添加一些开发功能，以及修复原代码一些坑。
 
 ### 添加修复
 
