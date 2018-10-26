@@ -11,9 +11,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.2.5",
 	"appid": "",
-	"projectname": "wx-miniprogram-boilerplate",
+	"projectname": "wxmp-workflow-template",
 	"isGameTourist": false,
 	"scripts": {
 		"beforeCompile": "",

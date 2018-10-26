@@ -60,8 +60,10 @@ wxmp-workflow-template
 │    ├── package.json
 ├── node_modules // 项目依赖
 ├── src 
-│    ├── assets // 资源文件
-│    │    ├── fonts  // 字体源文件
+│    ├── assets     // 资源文件
+│    │    ├── fonts     // 字体源文件
+│    │    ├── images    // 图片资源
+│    ├── behaviors  // 公用behavior
 │    ├── components // 微信小程序自定义组件
 │    ├── images     // 页面中的图片和icon
 │    ├── pages      // 小程序page文件
