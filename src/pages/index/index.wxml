@@ -1,0 +1,15 @@
+<import src="../../templates/index_tpl/index_tpl.wxml" />
+<view class="demo-page">
+  
+  <view class="page-content">
+    <view class="iconfont icon-weixin"></view>
+    <view class="iconfont icon-home"></view>
+    <view class="text">pages数据：{{num}}</view>
+    <view bindtap="clickInPage" class="btn">page点击</view>
+  </view>
+
+  <template is="indexTpl" data="{{num}}" />
+
+  <components-demo num="{{num}}" bindaddNum="addNum"></components-demo>
+
+</view>

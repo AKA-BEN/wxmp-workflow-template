@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我说是就是.",
+  "usingComponents": {
+    "components-demo": "/components/index_component/index_component"
+  }
+}
